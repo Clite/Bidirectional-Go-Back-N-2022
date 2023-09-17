@@ -1,5 +1,5 @@
 # Computer-Network-Bidirectional-Go-Back-N-2022
-양방향 패킷 송신 GBN(Go-Back-N) 시뮬레이터
+양방향 GBN(Go-Back-N) 패킷 송신 시뮬레이터
 
 + 39 ~ 278 Line 직접 구현 / 이외 스켈레톤 코드
 + packet window가 buffer 역할을 동시에 함
